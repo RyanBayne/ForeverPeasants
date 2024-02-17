@@ -1,2 +1,2 @@
-# foreverpeasants
-Forever Peasants (Open-Source MMO) Real-time medieval life and war!
+# Forever Peasants MMO
+Forever Peasants (Open-Source MMO) is the concept for ultra-realistic medieval life and war games!
